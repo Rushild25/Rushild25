@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rushild25
 - 🌱 I’m currently learning C++
 - 📫 How to reach me:
-- Instagarm: rushil_.29 (https://www.instagram.com/rushil_.29/?hl=en)
-- LinkedIn: Rushil Dhingra (https://www.linkedin.com/in/rushil-dhingra-179907298/)
+- Instagarm: rushil_.29
+- LinkedIn: Rushil Dhingra
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A little coding fun fact:  The first computer bug was an actual bug! In 1947, computer
 - scientists found a moth trapped in a relay of the Harvard Mark II computer, causing a malfunction. They
